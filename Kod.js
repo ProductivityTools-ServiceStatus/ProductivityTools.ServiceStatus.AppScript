@@ -1,7 +1,7 @@
 function doGet(req) {
   var doc = SpreadsheetApp.getActiveSpreadsheet();
   var sheet = doc.getSheetByName("Configuration");
-  var range =sheet.getRange(1,1,7,10);
+  var range =sheet.getRange(1,1,50,50);
   var values=range.getValues();
   
   var output = [];
