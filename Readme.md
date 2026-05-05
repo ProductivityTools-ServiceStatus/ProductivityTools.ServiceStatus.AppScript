@@ -1,4 +1,3 @@
-https://script.google.com/macros/s/AKfycbx7ieTYTvIpJAO2DQ9zjtGG_jdCW41vh9tD8k1ozzPiCGPhBdI6XtEU70nxHj_GFZDL/exec
 # Service Status Configuration API
 
 This Google Apps Script provides a lightweight JSON endpoint to retrieve configuration settings from a Google Spreadsheet. It is designed to expose service status metadata while filtering out specific technical details.
